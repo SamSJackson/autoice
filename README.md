@@ -1,4 +1,4 @@
-# ATitanicSuccess [AutoIce]
+# ATitanicSuccess
 Repository for the AutoIce challenge: [AutoIce](https://platform.ai4eo.eu/auto-ice)
 
 ## Team Members
