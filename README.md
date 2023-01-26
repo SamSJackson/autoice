@@ -1,4 +1,4 @@
-# ATitanicSuccess [AutoIce]
+# ATitanicSuccess
 Repository for the AutoIce challenge: [AutoIce](https://platform.ai4eo.eu/auto-ice)
 
 ## Team Members
@@ -41,6 +41,6 @@ It is a measurement that we can implement locally and see how we would do.
 | Stage of Development   | F1     | 2/5       |
 | Floe Size              | F1     | 1/5       |
 
-Formulas are found [here](https://platform.ai4eo.eu/auto-ice/data)
+Formulas for metrics are found [here](https://platform.ai4eo.eu/auto-ice/data)
 
 
