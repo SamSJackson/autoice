@@ -20,6 +20,22 @@ Any testing will only require the Ready-To-Train Test data (~3GB).
 - [Raw Test](https://data.dtu.dk/articles/dataset/Raw_AI4Arctic_Sea_Ice_Challenge_Test_Dataset/21762848?backTo=/collections/AI4Arctic_Sea_Ice_Challenge_Dataset/6244065)
 - [Ready-To-Train Test](https://data.dtu.dk/articles/dataset/Ready-To-Train_AI4Arctic_Sea_Ice_Challenge_Test_Dataset/21762830?backTo=/collections/AI4Arctic_Sea_Ice_Challenge_Dataset/6244065)
 
+## Setting Up
+
+Downloading this Git repository should get you set-up for the most part. To save difficulty with version-matching, I have included an environment.yml.
+Given that we all use anaconda, we will make an anaconda environment and load the version requirements from the YAML file. 
+
+To get started, open up your anaconda prompt in the same location as this git repository and use the command:
+
+`conda env create --name <envname> --file=environment.yml`
+
+Note that envname will dictate what you write to open the environment, I have used `autoice`.
+You only have to run this command once!
+
+From now on, to open the environment, you just have to type:
+
+`conda activate <envname>`
+
 
 ## Task
 Task is to use SAR (Synthetic Aperture Radar) data to map "accurate" sea ice maps.
