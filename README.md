@@ -8,6 +8,13 @@ Repository for the AutoIce challenge: [AutoIce](https://platform.ai4eo.eu/auto-i
 - Grace Hopkins
 
 ## Datasets
+Note that you need to download these separately from the repository. Repository contains a gitignore to avoid downloading 250GB of data.
+
+You do not NEED all of this data. If you want to try any modelling, you will require the Ready-To-Train Training data (~56GB).
+
+Any testing will only require the Ready-To-Train Test data (~3GB).
+
+
 - [Raw Training](https://data.dtu.dk/articles/dataset/Raw_AI4Arctic_Sea_Ice_Challenge_Dataset/21284967?backTo=/collections/AI4Arctic_Sea_Ice_Challenge_Dataset/6244065)
 - [Ready-To-Train Training](https://data.dtu.dk/articles/dataset/Ready-To-Train_AI4Arctic_Sea_Ice_Challenge_Dataset/21316608?backTo=/collections/AI4Arctic_Sea_Ice_Challenge_Dataset/6244065)
 - [Raw Test](https://data.dtu.dk/articles/dataset/Raw_AI4Arctic_Sea_Ice_Challenge_Test_Dataset/21762848?backTo=/collections/AI4Arctic_Sea_Ice_Challenge_Dataset/6244065)
