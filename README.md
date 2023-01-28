@@ -7,6 +7,13 @@ Repository for the AutoIce challenge: [AutoIce](https://platform.ai4eo.eu/auto-i
 - Dillon Leahy
 - Grace Hopkins
 
+## Datasets
+- [Raw Training](https://data.dtu.dk/articles/dataset/Raw_AI4Arctic_Sea_Ice_Challenge_Dataset/21284967?backTo=/collections/AI4Arctic_Sea_Ice_Challenge_Dataset/6244065)
+- [Ready-To-Train Training](https://data.dtu.dk/articles/dataset/Ready-To-Train_AI4Arctic_Sea_Ice_Challenge_Dataset/21316608?backTo=/collections/AI4Arctic_Sea_Ice_Challenge_Dataset/6244065)
+- [Raw Test](https://data.dtu.dk/articles/dataset/Raw_AI4Arctic_Sea_Ice_Challenge_Test_Dataset/21762848?backTo=/collections/AI4Arctic_Sea_Ice_Challenge_Dataset/6244065)
+- [Ready-To-Train Test](https://data.dtu.dk/articles/dataset/Ready-To-Train_AI4Arctic_Sea_Ice_Challenge_Test_Dataset/21762830?backTo=/collections/AI4Arctic_Sea_Ice_Challenge_Dataset/6244065)
+
+
 ## Task
 Task is to use SAR (Synthetic Aperture Radar) data to map "accurate" sea ice maps.
 Primarily, the challenge aims to improve retrieval of parameters such as:
