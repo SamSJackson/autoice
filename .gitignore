@@ -1,0 +1,13 @@
+*.nc
+data_ready/*
+test_data_ready/*
+__pycache__/
+.ipynb_checkpoints/
+misc/
+datalists/
+loaders.py
+unet.py
+utils.py
+functions.py
+README.md
+environment.yml
